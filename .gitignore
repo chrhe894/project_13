@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Virtuell miljö
+.venv/
+venv/
+
+# Hemligheter och lokal konfiguration
+.env
+*.key
+
+# Editorer
+.idea/
+.vscode/
