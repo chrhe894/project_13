@@ -1,0 +1,260 @@
+1
+Newcastle
+-
+Arsenal
+1
+X
+2
+Tipsinformation för match nummer 1
+Tipsinfo
+1
+X
+2
+Svenska folket
+18%
+22%
+60%
+Odds
+6,25
+4,40
+1,57
+2
+Chelsea
+-
+Leeds
+1
+X
+2
+Tipsinformation för match nummer 2
+Tipsinfo
+1
+X
+2
+Svenska folket
+59%
+26%
+15%
+Odds
+1,93
+3,80
+4,20
+3
+Tottenham
+-
+Ipswich
+1
+X
+2
+Tipsinformation för match nummer 3
+Tipsinfo
+1
+X
+2
+Svenska folket
+70%
+18%
+12%
+Odds
+1,53
+4,70
+6,50
+4
+Aston Villa
+-
+Sunderland
+1
+X
+2
+Tipsinformation för match nummer 4
+Tipsinfo
+1
+X
+2
+Svenska folket
+69%
+19%
+12%
+Odds
+1,80
+4,10
+4,50
+5
+Bournemouth
+-
+Nottingham
+1
+X
+2
+Tipsinformation för match nummer 5
+Tipsinfo
+1
+X
+2
+Svenska folket
+58%
+25%
+17%
+Odds
+1,98
+3,70
+4,00
+6
+Coventry
+-
+Crystal Palace
+1
+X
+2
+Tipsinformation för match nummer 6
+Tipsinfo
+1
+X
+2
+Svenska folket
+41%
+27%
+32%
+Odds
+2,48
+3,50
+3,00
+7
+Bolton
+-
+Portsmouth
+1
+X
+2
+Tipsinformation för match nummer 7
+Tipsinfo
+1
+X
+2
+Svenska folket
+33%
+30%
+37%
+Odds
+2,85
+3,50
+2,50
+8
+Lincoln
+-
+Wrexham
+1
+X
+2
+Tipsinformation för match nummer 8
+Tipsinfo
+1
+X
+2
+Svenska folket
+30%
+30%
+40%
+Odds
+2,90
+3,40
+2,55
+9
+Middlesbrough
+-
+Bristol City
+1
+X
+2
+Tipsinformation för match nummer 9
+Tipsinfo
+1
+X
+2
+Svenska folket
+74%
+15%
+11%
+Odds
+1,38
+5,30
+8,00
+10
+Sheffield U
+-
+Watford
+1
+X
+2
+Tipsinformation för match nummer 10
+Tipsinfo
+1
+X
+2
+Svenska folket
+69%
+19%
+12%
+Odds
+1,63
+4,20
+5,50
+11
+Stoke
+-
+Birmingham
+1
+X
+2
+Tipsinformation för match nummer 11
+Tipsinfo
+1
+X
+2
+Svenska folket
+36%
+31%
+33%
+Odds
+2,88
+3,45
+2,50
+12
+Swansea
+-
+West Bromwich
+1
+X
+2
+Tipsinformation för match nummer 12
+Tipsinfo
+1
+X
+2
+Svenska folket
+35%
+28%
+37%
+Odds
+2,63
+3,45
+2,80
+13
+Wolverhampton
+-
+Charlton
+1
+X
+2
+Tipsinformation för match nummer 13
+Tipsinfo
+1
+X
+2
+Svenska folket
+78%
+14%
+8%
+Odds
+1,35
+5,40
+9,50

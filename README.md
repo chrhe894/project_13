@@ -33,6 +33,20 @@ pip install -r requirements-dev.txt
 python -m project_13
 ```
 
+## Läsa in en omgång
+
+Kopiera omgången från Stryktipset-sidan, spara texten i en fil och kör:
+
+```
+python -m project_13 read-round omgang.txt --out data/omgang.json
+```
+
+Omgång (till exempel `2026-W47`) och speldag räknas ut från dagens datum,
+eftersom texten inte innehåller dem. Gäller omgången en annan vecka, lägg till
+`--week 48`.
+
+Formatet och vad som kontrolleras står i [docs/DATA_FORMAT.md](docs/DATA_FORMAT.md).
+
 ## Testa
 
 ```
@@ -43,6 +57,7 @@ python -m pytest
 
 ```
 project_13/   programkoden (startpunkt: __main__.py)
-tests/        tester
-docs/         identitet och målbild
+tests/        tester (exempeltexter från sidan i tests/fixtures/)
+docs/         identitet, målbild, första arbetsflödet och dataformat
+data/         exempeldata (en omgång kopierad för hand)
 ```

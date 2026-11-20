@@ -1,0 +1,203 @@
+{
+  "label": "Exempelomgång, kopierad för hand från Svenska Spels Stryktipset-sida",
+  "source": "Svenska Spel, Stryktipset",
+  "round": "2026-W47",
+  "draw_date": "2026-11-21",
+  "matches": [
+    {
+      "number": 1,
+      "home": "Newcastle",
+      "away": "Arsenal",
+      "odds": {
+        "1": 6.25,
+        "X": 4.4,
+        "2": 1.57
+      },
+      "streck_percent": {
+        "1": 18,
+        "X": 22,
+        "2": 60
+      }
+    },
+    {
+      "number": 2,
+      "home": "Chelsea",
+      "away": "Leeds",
+      "odds": {
+        "1": 1.93,
+        "X": 3.8,
+        "2": 4.2
+      },
+      "streck_percent": {
+        "1": 59,
+        "X": 26,
+        "2": 15
+      }
+    },
+    {
+      "number": 3,
+      "home": "Tottenham",
+      "away": "Ipswich",
+      "odds": {
+        "1": 1.53,
+        "X": 4.7,
+        "2": 6.5
+      },
+      "streck_percent": {
+        "1": 70,
+        "X": 18,
+        "2": 12
+      }
+    },
+    {
+      "number": 4,
+      "home": "Aston Villa",
+      "away": "Sunderland",
+      "odds": {
+        "1": 1.8,
+        "X": 4.1,
+        "2": 4.5
+      },
+      "streck_percent": {
+        "1": 69,
+        "X": 19,
+        "2": 12
+      }
+    },
+    {
+      "number": 5,
+      "home": "Bournemouth",
+      "away": "Nottingham",
+      "odds": {
+        "1": 1.98,
+        "X": 3.7,
+        "2": 4.0
+      },
+      "streck_percent": {
+        "1": 58,
+        "X": 25,
+        "2": 17
+      }
+    },
+    {
+      "number": 6,
+      "home": "Coventry",
+      "away": "Crystal Palace",
+      "odds": {
+        "1": 2.48,
+        "X": 3.5,
+        "2": 3.0
+      },
+      "streck_percent": {
+        "1": 41,
+        "X": 27,
+        "2": 32
+      }
+    },
+    {
+      "number": 7,
+      "home": "Bolton",
+      "away": "Portsmouth",
+      "odds": {
+        "1": 2.85,
+        "X": 3.5,
+        "2": 2.5
+      },
+      "streck_percent": {
+        "1": 33,
+        "X": 30,
+        "2": 37
+      }
+    },
+    {
+      "number": 8,
+      "home": "Lincoln",
+      "away": "Wrexham",
+      "odds": {
+        "1": 2.9,
+        "X": 3.4,
+        "2": 2.55
+      },
+      "streck_percent": {
+        "1": 30,
+        "X": 30,
+        "2": 40
+      }
+    },
+    {
+      "number": 9,
+      "home": "Middlesbrough",
+      "away": "Bristol City",
+      "odds": {
+        "1": 1.38,
+        "X": 5.3,
+        "2": 8.0
+      },
+      "streck_percent": {
+        "1": 74,
+        "X": 15,
+        "2": 11
+      }
+    },
+    {
+      "number": 10,
+      "home": "Sheffield U",
+      "away": "Watford",
+      "odds": {
+        "1": 1.63,
+        "X": 4.2,
+        "2": 5.5
+      },
+      "streck_percent": {
+        "1": 69,
+        "X": 19,
+        "2": 12
+      }
+    },
+    {
+      "number": 11,
+      "home": "Stoke",
+      "away": "Birmingham",
+      "odds": {
+        "1": 2.88,
+        "X": 3.45,
+        "2": 2.5
+      },
+      "streck_percent": {
+        "1": 36,
+        "X": 31,
+        "2": 33
+      }
+    },
+    {
+      "number": 12,
+      "home": "Swansea",
+      "away": "West Bromwich",
+      "odds": {
+        "1": 2.63,
+        "X": 3.45,
+        "2": 2.8
+      },
+      "streck_percent": {
+        "1": 35,
+        "X": 28,
+        "2": 37
+      }
+    },
+    {
+      "number": 13,
+      "home": "Wolverhampton",
+      "away": "Charlton",
+      "odds": {
+        "1": 1.35,
+        "X": 5.4,
+        "2": 9.5
+      },
+      "streck_percent": {
+        "1": 78,
+        "X": 14,
+        "2": 8
+      }
+    }
+  ]
+}

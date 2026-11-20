@@ -1,0 +1,312 @@
+1
+Newcastle
+-
+Arsenal
+1
+X
+2
+Tipsinformation för match nummer 1
+Tipsinfo
+1
+X
+2
+Svenska folket
+18%
+22%
+60%
+Aktuellt odds
+6,40
+4,40
+1,56
+Startodds
+6,00
+4,35
+1,60
+2
+Chelsea
+-
+Leeds
+1
+X
+2
+Tipsinformation för match nummer 2
+Tipsinfo
+1
+X
+2
+Svenska folket
+59%
+26%
+15%
+Aktuellt odds
+1,93
+3,80
+4,20
+Startodds
+1,85
+3,95
+4,40
+3
+Tottenham
+-
+Ipswich
+1
+X
+2
+Tipsinformation för match nummer 3
+Tipsinfo
+1
+X
+2
+Svenska folket
+70%
+18%
+12%
+Aktuellt odds
+1,53
+4,70
+6,50
+Startodds
+1,57
+4,60
+6,10
+4
+Aston Villa
+-
+Sunderland
+1
+X
+2
+Tipsinformation för match nummer 4
+Tipsinfo
+1
+X
+2
+Svenska folket
+69%
+19%
+12%
+Aktuellt odds
+1,77
+4,10
+4,70
+Startodds
+1,82
+3,95
+4,50
+5
+Bournemouth
+-
+Nottingham
+1
+X
+2
+Tipsinformation för match nummer 5
+Tipsinfo
+1
+X
+2
+Svenska folket
+58%
+24%
+18%
+Aktuellt odds
+1,98
+3,70
+4,00
+Startodds
+2,00
+3,70
+3,95
+6
+Coventry
+-
+Crystal Palace
+1
+X
+2
+Tipsinformation för match nummer 6
+Tipsinfo
+1
+X
+2
+Svenska folket
+41%
+27%
+32%
+Aktuellt odds
+2,48
+3,50
+3,00
+Startodds
+2,48
+3,60
+2,95
+7
+Bolton
+-
+Portsmouth
+1
+X
+2
+Tipsinformation för match nummer 7
+Tipsinfo
+1
+X
+2
+Svenska folket
+33%
+29%
+38%
+Aktuellt odds
+2,85
+3,50
+2,50
+Startodds
+2,85
+3,55
+2,48
+8
+Lincoln
+-
+Wrexham
+1
+X
+2
+Tipsinformation för match nummer 8
+Tipsinfo
+1
+X
+2
+Svenska folket
+29%
+30%
+41%
+Aktuellt odds
+2,90
+3,40
+2,55
+Startodds
+2,90
+3,40
+2,55
+9
+Middlesbrough
+-
+Bristol City
+1
+X
+2
+Tipsinformation för match nummer 9
+Tipsinfo
+1
+X
+2
+Svenska folket
+74%
+15%
+11%
+Aktuellt odds
+1,38
+5,30
+8,00
+Startodds
+1,40
+5,30
+7,50
+10
+Sheffield U
+-
+Watford
+1
+X
+2
+Tipsinformation för match nummer 10
+Tipsinfo
+1
+X
+2
+Svenska folket
+69%
+19%
+12%
+Aktuellt odds
+1,63
+4,25
+5,50
+Startodds
+1,66
+4,10
+5,30
+11
+Stoke
+-
+Birmingham
+1
+X
+2
+Tipsinformation för match nummer 11
+Tipsinfo
+1
+X
+2
+Svenska folket
+36%
+31%
+33%
+Aktuellt odds
+2,90
+3,40
+2,50
+Startodds
+2,90
+3,55
+2,48
+12
+Swansea
+-
+West Bromwich
+1
+X
+2
+Tipsinformation för match nummer 12
+Tipsinfo
+1
+X
+2
+Svenska folket
+35%
+28%
+37%
+Aktuellt odds
+2,60
+3,45
+2,80
+Startodds
+2,60
+3,40
+2,80
+13
+Wolverhampton
+-
+Charlton
+1
+X
+2
+Tipsinformation för match nummer 13
+Tipsinfo
+1
+X
+2
+Svenska folket
+78%
+14%
+8%
+Aktuellt odds
+1,35
+5,40
+9,50
+Startodds
+1,34
+5,50
+9,50
